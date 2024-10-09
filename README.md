@@ -2,6 +2,11 @@
 
 ------
 ** 순서 중요 **
+처음
+- git config --global user.name "John Doe"
+- git config --global user.email johndoe@example.com
+- git init
+  -> 파일 경로 위치 저장
 
 - git pull
   -> 파일 가져오기 / 현재 깃허브 상태 업데이트
