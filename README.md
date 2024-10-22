@@ -2,7 +2,12 @@
 
 ------
 ** 순서 중요 **
-
+처음
+- git config --global user.name "깃허브 이름"
+- git config --global user.email "깃허브 이메일"
+- git init
+  -> 파일 경로 위치 저장
+--------------------------------
 - git pull
   -> 파일 가져오기 / 현재 깃허브 상태 업데이트
 - git add . (add 띄고 .임
